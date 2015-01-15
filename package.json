@@ -1,6 +1,6 @@
 {
   "name": "json-string",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Customizable JSON formatter",
   "repository": "dominicbarnes/json-string",
   "dependencies": {
