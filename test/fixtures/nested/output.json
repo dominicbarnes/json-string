@@ -1,0 +1,10 @@
+{
+  "bar": {
+    "boolean": true,
+    "null": null
+  },
+  "foo": {
+    "number": 123,
+    "string": "String"
+  }
+}
